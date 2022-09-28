@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Xhoye
+- 👋 Hi, I’m Danielle
 - 👀 I’m interested in full stack development 
 - 🌱 I’m currently learning JavaScript 
-- 💞️ I’m looking to collaborate on Front-end development 
+- 💞️ I’m looking to collaborate on Backend projects
 - 📫 How to reach me danielleogochukwu@gmail.com 
 
 <!---
